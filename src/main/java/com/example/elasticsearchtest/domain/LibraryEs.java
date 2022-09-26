@@ -9,8 +9,8 @@ import javax.persistence.Id;
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @Document(indexName = "library")
-@Mapping(mappingPath = "elastic/library-mapping.json")
-@Setting(settingPath = "elastic/library-setting.json")
+@Mapping(mappingPath = "elastic/library-setting.json")
+@Setting(settingPath = "elastic/library-mapping.json")
 public class LibraryEs {
 
     @Id

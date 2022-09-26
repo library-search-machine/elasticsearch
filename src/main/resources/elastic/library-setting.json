@@ -7,7 +7,7 @@
     "isbn13" : {"type" : "keyword"},
     "authors" : {"type" : "text",
       "analyzer" : "korean"},
-    "libraryName" : {"type" : "keyword",
+    "libraryName" : {"type" : "text",
       "analyzer" : "korean"},
     "publicationYear" : {"type" : "keyword"},
     "publisher" : {"type" : "text",
