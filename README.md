@@ -1,6 +1,6 @@
 # elasticsearch
 
-도서관 정보나루(https://www.data4library.kr)에서 제공되는 서울 소재 도서관 332관 약 1,700만권의 책 데이터를 삽입하였습니다.
+[도서관 정보나루](https://www.data4library.kr)에서 제공되는 서울 소재 도서관 332관 약 1,700만권의 책 데이터를 삽입하였습니다.
 <br>
 <br>
 <br>
@@ -37,10 +37,10 @@
 </details>
 <details>
     <summary>
-        <b>엑셀 파일 heap 메모리 초과오류</b>
+        <b>엑셀 heap 메모리 초과오류</b>
     </summary>
 <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; <b>문제점1:</b> 엑셀 파일 용량이 큰 경우 heap 메모리 오류 발생.
+  &nbsp;&nbsp;&nbsp;&nbsp; <b>문제점:</b> 엑셀 파일이 큰 경우 heap 메모리 오류 발생.
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp; <b>해결방안:</b> 컴퓨터환경에 맞춰 기준점을 정하고 엑셀 파일을 분리하여 데이터를 적재해보자!
 </details>
